@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-config",
+  "version": "0.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "author": "johnathan.froeming",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
